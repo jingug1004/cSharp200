@@ -1,0 +1,6 @@
+C:\Users\A\RiderProjects\HellWorl\HellWorl\bin\Debug\HellWorl.exe
+C:\Users\A\RiderProjects\HellWorl\HellWorl\bin\Debug\HellWorl.pdb
+C:\Users\A\RiderProjects\HellWorl\HellWorl\obj\Debug\HellWorl.csprojAssemblyReference.cache
+C:\Users\A\RiderProjects\HellWorl\HellWorl\obj\Debug\HellWorl.csproj.CoreCompileInputs.cache
+C:\Users\A\RiderProjects\HellWorl\HellWorl\obj\Debug\HellWorl.exe
+C:\Users\A\RiderProjects\HellWorl\HellWorl\obj\Debug\HellWorl.pdb
