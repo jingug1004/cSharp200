@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4147f65d-76b0-42ca-aaa6-595692bd8eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,34 +19,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <marker date="1559791161556" expanded="true" signature="33:189" ph="{...}" />
-                <marker date="1559791161556" expanded="true" signature="62:187" ph="{...}" />
-                <marker date="1559791161556" expanded="true" signature="115:181" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+                  <folding>
+                    <marker date="1559793557400" expanded="true" signature="6:34" ph="..." />
+                    <marker date="1559793557400" expanded="true" signature="54:279" ph="{...}" />
+                    <marker date="1559793557400" expanded="true" signature="83:277" ph="{...}" />
+                    <marker date="1559793557400" expanded="true" signature="136:271" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                  <folding>
+                    <marker date="1559793552814" expanded="true" signature="38:171" ph="{...}" />
+                    <marker date="1559793552814" expanded="true" signature="62:169" ph="{...}" />
+                    <marker date="1559793552814" expanded="true" signature="97:163" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/HellWorl/s131/C131.cs" />
         <option value="$PROJECT_DIR$/HellWorl/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -72,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -89,20 +112,13 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
               <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="s131" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,6 +127,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,12 +171,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559791060857</updated>
-      <workItem from="1559791062485" duration="965000" />
+      <workItem from="1559791062485" duration="1393000" />
+      <workItem from="1559792494701" duration="1217000" />
     </task>
+    <task id="LOCAL-00001" summary="190606 (목) - 현충일 공휴일 대구 집에서">
+      <created>1559792057907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559792057908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="965000" />
+    <option name="totallyTimeSpent" value="2610000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,39 +198,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123667374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12460064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32942432" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17278618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="190606 (목) - 현충일 공휴일 대구 집에서" />
+    <option name="LAST_COMMIT_MESSAGE" value="190606 (목) - 현충일 공휴일 대구 집에서" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -229,14 +260,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
+    <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="165">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <marker date="1559791161556" expanded="true" signature="33:189" ph="{...}" />
-            <marker date="1559791161556" expanded="true" signature="62:187" ph="{...}" />
-            <marker date="1559791161556" expanded="true" signature="115:181" ph="{...}" />
+            <marker date="1559793552814" expanded="true" signature="38:171" ph="{...}" />
+            <marker date="1559793552814" expanded="true" signature="62:169" ph="{...}" />
+            <marker date="1559793552814" expanded="true" signature="97:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1559793557400" expanded="true" signature="6:34" ph="..." />
+            <marker date="1559793557400" expanded="true" signature="54:279" ph="{...}" />
+            <marker date="1559793557400" expanded="true" signature="83:277" ph="{...}" />
+            <marker date="1559793557400" expanded="true" signature="136:271" ph="{...}" />
           </folding>
         </state>
       </provider>
