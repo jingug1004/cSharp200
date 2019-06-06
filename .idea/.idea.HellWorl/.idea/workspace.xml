@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4147f65d-76b0-42ca-aaa6-595692bd8eba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/s131/C131.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +23,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
                   <folding>
-                    <marker date="1559793557400" expanded="true" signature="6:34" ph="..." />
-                    <marker date="1559793557400" expanded="true" signature="54:279" ph="{...}" />
-                    <marker date="1559793557400" expanded="true" signature="83:277" ph="{...}" />
-                    <marker date="1559793557400" expanded="true" signature="136:271" ph="{...}" />
+                    <marker date="1559799763485" expanded="true" signature="6:34" ph="..." />
+                    <marker date="1559799763485" expanded="true" signature="54:290" ph="{...}" />
+                    <marker date="1559799763485" expanded="true" signature="83:288" ph="{...}" />
+                    <marker date="1559799763485" expanded="true" signature="136:282" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -44,12 +42,18 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                <state relative-caret-position="259">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                   <folding>
-                    <marker date="1559793552814" expanded="true" signature="38:171" ph="{...}" />
-                    <marker date="1559793552814" expanded="true" signature="62:169" ph="{...}" />
-                    <marker date="1559793552814" expanded="true" signature="97:163" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="38:930" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="62:928" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
+                    <marker date="1559797386352" expanded="true" signature="210:500" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="309:465" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="355:451" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="539:922" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="617:814" ph="{...}" />
+                    <marker date="1559797386352" expanded="true" signature="688:800" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -59,10 +63,16 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B94BFA9-2F0F-4D80-A8F7-ACA56A6424C9/e3/826a8a35/Console.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -127,7 +137,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559791060857</updated>
       <workItem from="1559791062485" duration="1393000" />
-      <workItem from="1559792494701" duration="1217000" />
+      <workItem from="1559792494701" duration="5232000" />
     </task>
     <task id="LOCAL-00001" summary="190606 (목) - 현충일 공휴일 대구 집에서">
       <created>1559792057907</created>
@@ -181,11 +191,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559792057908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="190606 (목) - 스스로 헬로월드 찍어냄. 기분 좋음.">
+      <created>1559793744522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559793744522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2610000" />
+    <option name="totallyTimeSpent" value="6625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,8 +222,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17278618" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17278618" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -234,7 +251,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="190606 (목) - 현충일 공휴일 대구 집에서" />
-    <option name="LAST_COMMIT_MESSAGE" value="190606 (목) - 현충일 공휴일 대구 집에서" />
+    <MESSAGE value="190606 (목) - 스스로 헬로월드 찍어냄. 기분 좋음." />
+    <option name="LAST_COMMIT_MESSAGE" value="190606 (목) - 스스로 헬로월드 찍어냄. 기분 좋음." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +261,32 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HellWorl/s131/C131.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" initialLine="27">
+            <startOffsets>
+              <option value="562" />
+            </startOffsets>
+            <endOffsets>
+              <option value="576" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/HellWorl/s131/C131.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" initialLine="13">
+            <startOffsets>
+              <option value="262" />
+            </startOffsets>
+            <endOffsets>
+              <option value="309" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -260,27 +304,327 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B94BFA9-2F0F-4D80-A8F7-ACA56A6424C9/e3/826a8a35/Console.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="230" column="8" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="8" />
+          <folding>
+            <marker date="1559799512516" expanded="true" signature="0:314" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1559799512516" expanded="false" signature="322:611" ph="..." />
+            <marker date="1559799512516" expanded="true" signature="629:101485" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="801:101483" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2580:2871" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2596:2865" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2654:2812" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2916:3204" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2932:3198" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="2989:3146" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="3250:3478" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="3285:3472" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="3525:3756" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="3560:3750" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="3844:4038" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="4044:4281" ph="///Gets a value that indicates whether input has been redirected from the standard input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="4322:4813" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="4361:4807" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="4819:5059" ph="///Gets a value that indicates whether output has been redirected from the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="5101:5600" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="5140:5594" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="5606:5868" ph="///Gets a value that indicates whether the error output stream has been redirected from the standard error stream ... " />
+            <marker date="1559799512516" expanded="true" signature="5909:6410" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="5948:6404" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="6416:6580" ph="///Gets the standard input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="6612:7493" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="6705:7487" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="6746:7451" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="6849:7429" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="7003:7096" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="7115:7337" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="7499:7665" ph="///Gets the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="7698:7901" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="7769:7895" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="7907:8085" ph="///Gets the standard error output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="8120:8328" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="8191:8322" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="8415:9257" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="8734:8834" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="8847:9134" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="9040:9122" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="9334:9625" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="9681:10276" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="9713:10270" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="10419:10918" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="10567:10656" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="11030:11195" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="11201:11747" ph="///Gets or sets the encoding the console uses to read input. ... " />
+            <marker date="1559799512516" expanded="true" signature="11788:12743" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="11827:12211" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="12244:12737" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="12749:13299" ph="///Gets or sets the encoding the console uses to write output. ... " />
+            <marker date="1559799512516" expanded="true" signature="13341:14638" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="13380:13776" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="13809:14632" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="14105:14209" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="14288:14396" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="14644:14908" ph="///Plays the sound of a beep through the console speaker. ... " />
+            <marker date="1559799512516" expanded="true" signature="14997:15039" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="15045:15776" ph="///Plays the sound of a beep of a specified frequency and duration through the console speaker. ... " />
+            <marker date="1559799512516" expanded="true" signature="15919:16410" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="16416:16606" ph="///Clears the console buffer and corresponding console window of display information. ... " />
+            <marker date="1559799512516" expanded="true" signature="16664:17535" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="17677:18010" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="18116:18284" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="18290:18910" ph="///Gets or sets the background color of the console. ... " />
+            <marker date="1559799512516" expanded="true" signature="18957:19878" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="18996:19313" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="19346:19872" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="19884:20535" ph="///Gets or sets the foreground color of the console. ... " />
+            <marker date="1559799512516" expanded="true" signature="20582:21501" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="20621:20936" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="20969:21495" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="21507:21815" ph="///Sets the foreground and background console colors to their defaults. ... " />
+            <marker date="1559799512516" expanded="true" signature="21878:22178" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="22184:23758" ph="///Copies a specified source area of the screen buffer to a specified destination area. ... " />
+            <marker date="1559799512516" expanded="true" signature="23930:24095" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="24101:26128" ph="///Copies a specified source area of the screen buffer to a specified destination area. ... " />
+            <marker date="1559799512516" expanded="true" signature="26429:30381" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="29533:29914" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="30479:30570" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="30726:32146" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="30888:31079" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="31254:31859" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="31589:31851" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="31902:32076" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="32152:32917" ph="///Gets or sets the height of the buffer area. ... " />
+            <marker date="1559799512516" expanded="true" signature="32952:33153" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="32991:33062" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="33072:33147" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="33159:33925" ph="///Gets or sets the width of the buffer area. ... " />
+            <marker date="1559799512516" expanded="true" signature="33959:34161" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="33998:34069" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="34079:34155" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="34167:35279" ph="///Sets the height and width of the screen buffer area to the specified values. ... " />
+            <marker date="1559799512516" expanded="true" signature="35366:36230" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="36115:36178" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="36236:37245" ph="///Gets or sets the height of the console window area. ... " />
+            <marker date="1559799512516" expanded="true" signature="37280:37596" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="37319:37505" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="37515:37590" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="37602:38607" ph="///Gets or sets the width of the console window. ... " />
+            <marker date="1559799512516" expanded="true" signature="38641:38958" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="38680:38866" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="38876:38952" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="38964:40061" ph="///Sets the height and width of the console window to the specified values. ... " />
+            <marker date="1559799512516" expanded="true" signature="40155:42835" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="40881:41203" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="41281:41604" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="42841:43069" ph="///Gets the largest possible number of console window columns, based on the current font and screen resolution. ... " />
+            <marker date="1559799512516" expanded="true" signature="43110:43264" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="43149:43258" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="43270:43493" ph="///Gets the largest possible number of console window rows, based on the current font and screen resolution. ... " />
+            <marker date="1559799512516" expanded="true" signature="43535:43689" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="43574:43683" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="43695:44336" ph="///Gets or sets the leftmost position of the console window area relative to the screen buffer. ... " />
+            <marker date="1559799512516" expanded="true" signature="44369:44577" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="44408:44484" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="44494:44571" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="44583:45218" ph="///Gets or sets the top position of the console window area relative to the screen buffer. ... " />
+            <marker date="1559799512516" expanded="true" signature="45250:45458" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="45289:45364" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="45374:45452" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="45464:46447" ph="///Sets the position of the console window relative to the screen buffer. ... " />
+            <marker date="1559799512516" expanded="true" signature="46541:47667" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="47673:48305" ph="///Gets or sets the column position of the cursor within the buffer area. ... " />
+            <marker date="1559799512516" expanded="true" signature="48338:48551" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="48377:48458" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="48468:48545" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="48557:49184" ph="///Gets or sets the row position of the cursor within the buffer area. ... " />
+            <marker date="1559799512516" expanded="true" signature="49216:49430" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="49255:49336" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="49346:49424" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="49436:50352" ph="///Sets the position of the cursor. ... " />
+            <marker date="1559799512516" expanded="true" signature="50439:51729" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="51033:51092" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="51735:52339" ph="///Gets or sets the height of the cursor within a character cell. ... " />
+            <marker date="1559799512516" expanded="true" signature="52372:53301" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="52411:52616" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="52649:53295" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="53307:53732" ph="///Gets or sets a value indicating whether the cursor is visible. ... " />
+            <marker date="1559799512516" expanded="true" signature="53769:54519" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="53808:54015" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="54048:54513" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="54734:55479" ph="///Gets or sets the title to display in the console title bar. ... " />
+            <marker date="1559799512516" expanded="true" signature="55510:56489" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="55549:56005" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="56038:56483" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="56495:57230" ph="///Obtains the next character or function key pressed by the user. The pressed key is displayed in the console wi ... " />
+            <marker date="1559799512516" expanded="true" signature="57332:57381" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="57470:57542" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="57633:57738" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="57823:58096" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="58102:59050" ph="///Obtains the next character or function key pressed by the user. The pressed key is optionally displayed in the ... " />
+            <marker date="1559799512516" expanded="true" signature="59193:61606" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="59377:59661" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="59674:60870" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="59815:60741" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="60049:60729" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="60395:60715" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="60472:60645" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="61612:62060" ph="///Gets a value indicating whether a key press is available in the input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="62096:63250" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="62189:63244" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="62407:63205" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="62551:62871" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="63256:63505" ph="///Gets a value indicating whether the NUM LOCK keyboard toggle is turned on or turned off. ... " />
+            <marker date="1559799512516" expanded="true" signature="63539:63662" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="63578:63656" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="63668:63920" ph="///Gets a value indicating whether the CAPS LOCK keyboard toggle is turned on or turned off. ... " />
+            <marker date="1559799512516" expanded="true" signature="63952:64074" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="63991:64068" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="64080:64645" ph="///Gets or sets a value indicating whether the combination of the &lt;see cref=&quot;F:System.ConsoleModifiers.Control&quot; / ... " />
+            <marker date="1559799512516" expanded="true" signature="64689:65719" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="64728:65116" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="65149:65713" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="65772:66650" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="66705:67181" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="66816:67093" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="67107:67175" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="67495:68254" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="67534:67883" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="67919:68248" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="68260:68372" ph="///Acquires the standard error stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="68476:68533" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="68539:68912" ph="///Acquires the standard error stream, which is set to a specified buffer size. ... " />
+            <marker date="1559799512516" expanded="true" signature="69030:69276" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="69282:69394" ph="///Acquires the standard input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="69498:69555" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="69561:69934" ph="///Acquires the standard input stream, which is set to a specified buffer size. ... " />
+            <marker date="1559799512516" expanded="true" signature="70052:70297" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="70303:70417" ph="///Acquires the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="70522:70580" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="70586:70961" ph="///Acquires the standard output stream, which is set to a specified buffer size. ... " />
+            <marker date="1559799512516" expanded="true" signature="71080:71326" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="71332:71803" ph="///Sets the &lt;see cref=&quot;P:System.Console.In&quot; /&gt; property to the specified &lt;see cref=&quot;T:System.IO.TextReader&quot; /&gt; ob ... " />
+            <marker date="1559799512516" expanded="true" signature="71936:72222" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="72228:72703" ph="///Sets the &lt;see cref=&quot;P:System.Console.Out&quot; /&gt; property to the specified &lt;see cref=&quot;T:System.IO.TextWriter&quot; /&gt; o ... " />
+            <marker date="1559799512516" expanded="true" signature="72838:73179" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="73185:73672" ph="///Sets the &lt;see cref=&quot;P:System.Console.Error&quot; /&gt; property to the specified &lt;see cref=&quot;T:System.IO.TextWriter&quot; /&gt; ... " />
+            <marker date="1559799512516" expanded="true" signature="73811:74166" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="74172:74480" ph="///Reads the next character from the standard input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="74615:74659" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="74665:75305" ph="///Reads the next line of characters from the standard input stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="75447:75495" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="75501:75674" ph="///Writes the current line terminator to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="75815:75858" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="75864:76162" ph="///Writes the text representation of the specified Boolean value, followed by the current line terminator, to the ... " />
+            <marker date="1559799512516" expanded="true" signature="76313:76361" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="76367:76648" ph="///Writes the specified Unicode character, followed by the current line terminator, value to the standard output  ... " />
+            <marker date="1559799512516" expanded="true" signature="76799:76847" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="76853:77146" ph="///Writes the specified array of Unicode characters, followed by the current line terminator, to the standard out ... " />
+            <marker date="1559799512516" expanded="true" signature="77300:77349" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="77355:78304" ph="///Writes the specified subarray of Unicode characters, followed by the current line terminator, to the standard  ... " />
+            <marker date="1559799512516" expanded="true" signature="78480:78543" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="78549:78871" ph="///Writes the text representation of the specified &lt;see cref=&quot;T:System.Decimal&quot; /&gt; value, followed by the current ... " />
+            <marker date="1559799512516" expanded="true" signature="79025:79073" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="79079:79401" ph="///Writes the text representation of the specified double-precision floating-point value, followed by the current ... " />
+            <marker date="1559799512516" expanded="true" signature="79554:79602" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="79608:79930" ph="///Writes the text representation of the specified single-precision floating-point value, followed by the current ... " />
+            <marker date="1559799512516" expanded="true" signature="80082:80130" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="80136:80448" ph="///Writes the text representation of the specified 32-bit signed integer value, followed by the current line term ... " />
+            <marker date="1559799512516" expanded="true" signature="80598:80646" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="80652:80966" ph="///Writes the text representation of the specified 32-bit unsigned integer value, followed by the current line te ... " />
+            <marker date="1559799512516" expanded="true" signature="81143:81191" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="81197:81509" ph="///Writes the text representation of the specified 64-bit signed integer value, followed by the current line term ... " />
+            <marker date="1559799512516" expanded="true" signature="81660:81708" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="81714:82028" ph="///Writes the text representation of the specified 64-bit unsigned integer value, followed by the current line te ... " />
+            <marker date="1559799512516" expanded="true" signature="82206:82254" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="82260:82551" ph="///Writes the text representation of the specified object, followed by the current line terminator, to the standa ... " />
+            <marker date="1559799512516" expanded="true" signature="82704:82752" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="82758:83028" ph="///Writes the specified string value, followed by the current line terminator, to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="83181:83229" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="83235:83924" ph="///Writes the text representation of the specified object, followed by the current line terminator, to the standa ... " />
+            <marker date="1559799512516" expanded="true" signature="84091:84146" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="84152:84945" ph="///Writes the text representation of the specified objects, followed by the current line terminator, to the stand ... " />
+            <marker date="1559799512516" expanded="true" signature="85125:85186" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="85192:86080" ph="///Writes the text representation of the specified objects, followed by the current line terminator, to the stand ... " />
+            <marker date="1559799512516" expanded="true" signature="86273:86340" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="86615:87068" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="87074:87809" ph="///Writes the text representation of the specified array of objects, followed by the current line terminator, to  ... " />
+            <marker date="1559799512516" expanded="true" signature="87984:88143" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="88149:88796" ph="///Writes the text representation of the specified object to the standard output stream using the specified forma ... " />
+            <marker date="1559799512516" expanded="true" signature="88959:89010" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="89016:89767" ph="///Writes the text representation of the specified objects to the standard output stream using the specified form ... " />
+            <marker date="1559799512516" expanded="true" signature="89943:90000" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="90006:90852" ph="///Writes the text representation of the specified objects to the standard output stream using the specified form ... " />
+            <marker date="1559799512516" expanded="true" signature="91041:91104" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="91344:91793" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="91799:92492" ph="///Writes the text representation of the specified array of objects to the standard output stream using the speci ... " />
+            <marker date="1559799512516" expanded="true" signature="92663:92814" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="92820:93076" ph="///Writes the text representation of the specified Boolean value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="93223:93267" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="93273:93512" ph="///Writes the specified Unicode character value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="93659:93703" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="93709:93960" ph="///Writes the specified array of Unicode characters to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="94110:94155" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="94161:95068" ph="///Writes the specified subarray of Unicode characters to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="95240:95299" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="95305:95585" ph="///Writes the text representation of the specified double-precision floating-point value to the standard output s ... " />
+            <marker date="1559799512516" expanded="true" signature="95734:95778" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="95784:96064" ph="///Writes the text representation of the specified &lt;see cref=&quot;T:System.Decimal&quot; /&gt; value to the standard output s ... " />
+            <marker date="1559799512516" expanded="true" signature="96214:96258" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="96264:96544" ph="///Writes the text representation of the specified single-precision floating-point value to the standard output s ... " />
+            <marker date="1559799512516" expanded="true" signature="96692:96736" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="96742:97012" ph="///Writes the text representation of the specified 32-bit signed integer value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="97158:97202" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="97208:97480" ph="///Writes the text representation of the specified 32-bit unsigned integer value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="97653:97697" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="97703:97973" ph="///Writes the text representation of the specified 64-bit signed integer value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="98120:98164" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="98170:98442" ph="///Writes the text representation of the specified 64-bit unsigned integer value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="98616:98660" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="98666:98943" ph="///Writes the text representation of the specified object to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="99092:99136" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="99142:99370" ph="///Writes the specified string value to the standard output stream. ... " />
+            <marker date="1559799512516" expanded="true" signature="99519:99563" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="99610:99921" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="99989:100914" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="100168:100271" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="100296:100335" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="100392:100582" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="100715:100908" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="100961:101479" ph="{...}" />
+            <marker date="1559799512516" expanded="true" signature="101311:101473" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="259">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1559793552814" expanded="true" signature="38:171" ph="{...}" />
-            <marker date="1559793552814" expanded="true" signature="62:169" ph="{...}" />
-            <marker date="1559793552814" expanded="true" signature="97:163" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="38:930" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="62:928" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
+            <marker date="1559797386352" expanded="true" signature="210:500" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="309:465" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="355:451" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="539:922" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="617:814" ph="{...}" />
+            <marker date="1559797386352" expanded="true" signature="688:800" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
-            <marker date="1559793557400" expanded="true" signature="6:34" ph="..." />
-            <marker date="1559793557400" expanded="true" signature="54:279" ph="{...}" />
-            <marker date="1559793557400" expanded="true" signature="83:277" ph="{...}" />
-            <marker date="1559793557400" expanded="true" signature="136:271" ph="{...}" />
+            <marker date="1559799763485" expanded="true" signature="6:34" ph="..." />
+            <marker date="1559799763485" expanded="true" signature="54:290" ph="{...}" />
+            <marker date="1559799763485" expanded="true" signature="83:288" ph="{...}" />
+            <marker date="1559799763485" expanded="true" signature="136:282" ph="{...}" />
           </folding>
         </state>
       </provider>

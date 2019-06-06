@@ -8,11 +8,8 @@ namespace HellWorl
         public static void Main(string[] args)
         {
             // Console.WriteLine("Hello World");
-
-            C131 sdfs = new C131();
-
-            sdfs.test01();
-
+            C131 instC131 = new C131();
+            instC131.PrintPrime(10);
         }
     }
 }
