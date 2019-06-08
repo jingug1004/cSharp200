@@ -14,6 +14,7 @@
         </e>
         <e p="s131" t="Include">
           <e p="C131.cs" t="Include" />
+          <e p="C132.cs" t="Include" />
         </e>
       </e>
       <e p="HellWorl.sln" t="IncludeFlat" />

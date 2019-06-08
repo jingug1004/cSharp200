@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4147f65d-76b0-42ca-aaa6-595692bd8eba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HellWorl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/HellWorl.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/bin/Debug/HellWorl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/obj/Debug/HellWorl.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HellWorl/s131/C131.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,13 +25,14 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
                   <folding>
-                    <marker date="1559799763485" expanded="true" signature="6:34" ph="..." />
-                    <marker date="1559799763485" expanded="true" signature="54:290" ph="{...}" />
-                    <marker date="1559799763485" expanded="true" signature="83:288" ph="{...}" />
-                    <marker date="1559799763485" expanded="true" signature="136:282" ph="{...}" />
+                    <marker date="1559912184258" expanded="true" signature="6:34" ph="..." />
+                    <marker date="1559912184258" expanded="true" signature="54:405" ph="{...}" />
+                    <marker date="1559912184258" expanded="true" signature="83:403" ph="{...}" />
+                    <marker date="1559912184258" expanded="true" signature="136:397" ph="{...}" />
+                    <marker date="1559912184258" expanded="true" signature="159:278" ph="/* Console.WriteLine(&quot;Hello World&quot;); ... */" />
                   </folding>
                 </state>
               </provider>
@@ -39,21 +42,49 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="259">
-                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="315">
+                  <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
                   <folding>
-                    <marker date="1559797386352" expanded="true" signature="38:930" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="62:928" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
-                    <marker date="1559797386352" expanded="true" signature="210:500" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="309:465" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="355:451" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="539:922" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="617:814" ph="{...}" />
-                    <marker date="1559797386352" expanded="true" signature="688:800" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="38:931" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="62:929" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
+                    <marker date="1559799773882" expanded="true" signature="210:500" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="309:465" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="355:451" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="539:923" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="617:814" ph="{...}" />
+                    <marker date="1559799773882" expanded="true" signature="688:800" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/HellWorl/s131/C132.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="550">
+                  <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+                  <folding>
+                    <marker date="1559913685785" expanded="true" signature="6:54" ph="..." />
+                    <marker date="1559913685785" expanded="true" signature="79:2687" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="103:2685" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="380:424" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="501:789" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="708:779" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="819:936" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="869:926" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="970:2288" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="1079:1447" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="1146:1433" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="1249:1415" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="1628:1809" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="1675:1795" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="2331:2679" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="2392:2586" ph="{...}" />
+                    <marker date="1559913685785" expanded="true" signature="2495:2572" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -73,6 +104,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B94BFA9-2F0F-4D80-A8F7-ACA56A6424C9/e3/826a8a35/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HellWorl/s131/C132.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/HellWorl/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,6 +114,7 @@
       <list>
         <option value="$PROJECT_DIR$/HellWorl/s131/C131.cs" />
         <option value="$PROJECT_DIR$/HellWorl/Program.cs" />
+        <option value="$PROJECT_DIR$/HellWorl/s131/C132.cs" />
       </list>
     </option>
   </component>
@@ -98,40 +131,23 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HellWorl" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="s131" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -182,7 +198,9 @@
       <option name="presentableId" value="Default" />
       <updated>1559791060857</updated>
       <workItem from="1559791062485" duration="1393000" />
-      <workItem from="1559792494701" duration="5232000" />
+      <workItem from="1559792494701" duration="5498000" />
+      <workItem from="1559905289114" duration="8949000" />
+      <workItem from="1559966022486" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="190606 (목) - 현충일 공휴일 대구 집에서">
       <created>1559792057907</created>
@@ -198,11 +216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559793744522</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="190606 (목) - 131.소수(prime number) 구하기">
+      <created>1559799811265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559799811265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6625000" />
+    <option name="totallyTimeSpent" value="16002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -217,13 +242,13 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12460064" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.17278618" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39956802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -252,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="190606 (목) - 현충일 공휴일 대구 집에서" />
     <MESSAGE value="190606 (목) - 스스로 헬로월드 찍어냄. 기분 좋음." />
-    <option name="LAST_COMMIT_MESSAGE" value="190606 (목) - 스스로 헬로월드 찍어냄. 기분 좋음." />
+    <MESSAGE value="190606 (목) - 131.소수(prime number) 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="190606 (목) - 131.소수(prime number) 구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,30 +288,17 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/HellWorl/s131/C131.cs</url>
-          <line>27</line>
-          <properties documentPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" initialLine="27">
+          <url>file://$PROJECT_DIR$/HellWorl/s131/C132.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/HellWorl/s131/C132.cs" initialLine="34">
             <startOffsets>
-              <option value="562" />
+              <option value="828" />
             </startOffsets>
             <endOffsets>
-              <option value="576" />
+              <option value="829" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/HellWorl/s131/C131.cs</url>
-          <line>13</line>
-          <properties documentPath="$PROJECT_DIR$/HellWorl/s131/C131.cs" initialLine="13">
-            <startOffsets>
-              <option value="262" />
-            </startOffsets>
-            <endOffsets>
-              <option value="309" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -600,31 +613,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HellWorl/s131/C131.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="315">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
-            <marker date="1559797386352" expanded="true" signature="38:930" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="62:928" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
-            <marker date="1559797386352" expanded="true" signature="210:500" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="309:465" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="355:451" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="539:922" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="617:814" ph="{...}" />
-            <marker date="1559797386352" expanded="true" signature="688:800" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="38:931" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="62:929" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="69:175" ph="/* public void c131method() ... */" />
+            <marker date="1559799773882" expanded="true" signature="210:500" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="309:465" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="355:451" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="539:923" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="617:814" ph="{...}" />
+            <marker date="1559799773882" expanded="true" signature="688:800" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HellWorl/s131/C132.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding>
+            <marker date="1559913685785" expanded="true" signature="6:54" ph="..." />
+            <marker date="1559913685785" expanded="true" signature="79:2687" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="103:2685" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="380:424" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="501:789" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="708:779" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="819:936" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="869:926" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="970:2288" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="1079:1447" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="1146:1433" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="1249:1415" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="1628:1809" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="1675:1795" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="2331:2679" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="2392:2586" ph="{...}" />
+            <marker date="1559913685785" expanded="true" signature="2495:2572" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HellWorl/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <marker date="1559799763485" expanded="true" signature="6:34" ph="..." />
-            <marker date="1559799763485" expanded="true" signature="54:290" ph="{...}" />
-            <marker date="1559799763485" expanded="true" signature="83:288" ph="{...}" />
-            <marker date="1559799763485" expanded="true" signature="136:282" ph="{...}" />
+            <marker date="1559912184258" expanded="true" signature="6:34" ph="..." />
+            <marker date="1559912184258" expanded="true" signature="54:405" ph="{...}" />
+            <marker date="1559912184258" expanded="true" signature="83:403" ph="{...}" />
+            <marker date="1559912184258" expanded="true" signature="136:397" ph="{...}" />
+            <marker date="1559912184258" expanded="true" signature="159:278" ph="/* Console.WriteLine(&quot;Hello World&quot;); ... */" />
           </folding>
         </state>
       </provider>
