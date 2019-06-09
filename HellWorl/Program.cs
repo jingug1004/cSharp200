@@ -15,10 +15,14 @@ namespace HellWorl
 //            instC132.ReMake();
 //            instC132.PrintErotos();
 
-            C133 instC133 = new C133(45, 6);
-            instC133.Make();
-//            instC133.Print();// 처음 만들기
-            instC133.ReMake();
+//            C133 instC133 = new C133(45, 6);
+//            instC133.Make();
+////            instC133.Print();// 처음 만들기
+//            instC133.ReMake();
+
+            C134 instC134 = new C134(12);
+            instC134.Make();
+            instC134.ReMake();
         }
     }
 }
